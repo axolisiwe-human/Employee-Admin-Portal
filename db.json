@@ -1,12 +1,20 @@
 {
   "employees": [
     {
-      "id": "1720427991879",
-      "name": "THAPELO",
-      "email": "THAPELO@GMAIL.COM",
-      "phone": "5464367474777",
-      "image": "",
-      "position": "43242"
+      "id": "1720441760027",
+      "name": "Akon",
+      "email": "akon@gmail.com",
+      "phone": "0147852",
+      "image": "image.png",
+      "position": "HR"
+    },
+    {
+      "id": "1720441789276",
+      "name": "Aron",
+      "email": "aron@gmail.com",
+      "phone": "7896541230",
+      "image": "image.png",
+      "position": "Teach"
     }
   ]
 }
